@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="153" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhVd3zc60_cBVsl9dLO0oesE3lmX_vBdQjXkGxr3MctjKhi1_THA4HcMS1V53l8IBUyk&usqp=CAU"  />
+<img align="right" height="153" src="https://media1.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif"  />
 
 ###
 
