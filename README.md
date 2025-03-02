@@ -56,8 +56,4 @@
   <img src="https://profile-counter.glitch.me/ASaikumar2004/count.svg?"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/ASaikumar2004/ASaikumar2004/output/snake.svg" alt="Snake animation" />
-
-###
